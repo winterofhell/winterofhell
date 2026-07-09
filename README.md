@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1e3c72,50:2a0845,100:590c30&text=winterofhell&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Game%20Developer%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Phaser&descAlignY=58&descSize=16" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Game+Developer;TypeScript+%26+Phaser+4;Learning+Pixel+Art" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Game+Developer;TypeScript+%26+Phaser+4;Learning+Pixel+Art" />
 
 </div>
 
@@ -15,7 +15,7 @@
 
 <br>
 
-### 🧰 Tech stack
+### Tech stack
 
 <div align="center">
 
@@ -37,7 +37,9 @@
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=winterofhell&theme=tokyonight&hide_border=true&background=0D1117" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=winterofhell&repo=fedora-optimizations&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+[![fedora-optimizations](https://img.shields.io/badge/fedora--optimizations-repo-1A1A2E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/winterofhell/fedora-optimizations)
+![Stars](https://img.shields.io/github/stars/winterofhell/fedora-optimizations?style=for-the-badge&color=58A6FF&labelColor=1A1A2E)
+![Last Commit](https://img.shields.io/github/last-commit/winterofhell/fedora-optimizations?style=for-the-badge&color=58A6FF&labelColor=1A1A2E)
 </div>
 <br>
 
@@ -47,7 +49,6 @@
 
 <div align="center">
 
-<!-- замени ссылки на свои -->
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/winterofhell)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/winterofhell)
 
