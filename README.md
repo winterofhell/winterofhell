@@ -11,9 +11,6 @@
 - Building games with **Phaser 4** + **TypeScript**
 - Currently learning **pixel art**
 - Interested in game architecture, tooling and rendering
-- Open to interesting projects & collaborations
-
-<br>
 
 ### Tech stack
 
@@ -25,25 +22,23 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ![Aseprite](https://img.shields.io/badge/Aseprite-7F1CB6?style=for-the-badge&logo=aseprite&logoColor=white)
 
 </div>
 
-<br>
-
 ### Stats
 
 <div align="center">
+
 <img src="https://streak-stats.demolab.com?user=winterofhell&theme=tokyonight&hide_border=true&background=0D1117" />
+
 <br>
+
 [![fedora-optimizations](https://img.shields.io/badge/fedora--optimizations-repo-1A1A2E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/winterofhell/fedora-optimizations)
 ![Stars](https://img.shields.io/github/stars/winterofhell/fedora-optimizations?style=for-the-badge&color=58A6FF&labelColor=1A1A2E)
 ![Last Commit](https://img.shields.io/github/last-commit/winterofhell/fedora-optimizations?style=for-the-badge&color=58A6FF&labelColor=1A1A2E)
-</div>
-<br>
 
-<br>
+</div>
 
 ### Connect
 
